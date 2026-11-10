@@ -1,44 +1,48 @@
-# voice.md
+# voice.md: @mayaminio
 
-Copy this to `.claude/instagram/voice.md` and fill it in. Every skill in the
-pack reads it. Ten minutes here is the difference between scripts you shoot and
-scripts you rewrite.
+Wersja startowa, wypełniona z tego, co Maja już powiedziała o swoim koncie.
+Pola oznaczone `[DO UZUPEŁNIENIA]` czekają na jej odpowiedź. Nie zgaduj ich:
+w szkicach zostaw w tych miejscach znacznik `{{...}}`.
 
-If you would rather not fill it in by hand, send Claude three of your own reels
-or captions and say "write my voice.md from these". That works better than
-guessing at the answers.
-
-This file matters more on Instagram than anywhere else, because you have to say
-the words out loud. A line you would never say is not a draft, it is a retake.
+Wszystkie teksty pisz **po polsku**, naturalnie wplatając angielskie
+wtrącenia, tak jak robi to Maja. Listy frazesów i oceny hooków w skryptach są
+dopasowane do angielskiego, więc przy polskim tekście traktuj wyniki punktowe
+orientacyjnie.
 
 ---
 
 ## Who I am
 
-- **Name:**
-- **Handle:**
-- **What I do, in one sentence:**
-- **Who I am talking to:** (be specific: "photographers charging under $2,000",
-  not "creatives")
-- **What I sell:**
+- **Name:** Maja
+- **Handle:** @mayaminio (Instagram + TikTok)
+- **What I do, in one sentence:** Beauty, fashion i lifestyle w estetyce Y2K / vintage.
+  Paznokcie, makijaż, pielęgnacja, rzęsy, moda i kawałki codziennego życia.
+- **Who I am talking to:** [DO UZUPEŁNIENIA: np. „dziewczyny 20–35 lat, które kochają Y2K i lubią same robić paznokcie”]
+- **What I sell:** [DO UZUPEŁNIENIA: współprace z markami beauty (np. YesStyle/hince), coś jeszcze?]
+- **Background:** z wykształcenia i doświadczenia kosmetolożka, więc może mówić o pielęgnacji z wiedzą, nie tylko z gustu.
 
 ## What I sound like
 
-- **Three of my own reels or captions that sound most like me:** (paste them)
-- **On camera I am:** (fast and loud / dry / calm / funny / deadpan)
-- **Words I actually use:**
-- **Words I would never say out loud:**
-- **Do I swear:** (yes / mild / no)
-- **Emoji in captions:** (never / one, rarely / freely)
-- **Face on camera:** (always / sometimes / faceless)
-- **Voiceover or to-camera:**
-- **Pace:** (words per minute, if you have timed yourself reading a script.
-  `beats.py --wpm` uses this. Most people are between 150 and 200.)
+- **Language:** po polsku, z naturalnymi angielskimi wtrąceniami („life lately”, „diary dump”).
+- **Formats that feel like me:** autentyczne, pamiętnikowe: „life lately”, „diary dump”, kulisy (w tym budowa domu w stories).
+- **Three of my own reels or captions that sound most like me:** [DO UZUPEŁNIENIA: wklej 2–3 opisy albo transkrypcje rolek]
+- **On camera I am:** [DO UZUPEŁNIENIA]
+- **Words I actually use:** [DO UZUPEŁNIENIA]
+- **Words I would never say out loud:** [DO UZUPEŁNIENIA]
+- **Do I swear:** [DO UZUPEŁNIENIA]
+- **Emoji in captions:** [DO UZUPEŁNIENIA]
+- **Face on camera:** [DO UZUPEŁNIENIA]
+- **Voiceover or to-camera:** [DO UZUPEŁNIENIA]
+- **Pace:** nieznane, użyj domyślnego tempa.
+
+## Content rhythm
+
+- 3 rolki tygodniowo (stały plan batchingu).
+- Hashtagi: maks. 5, dobierane pod niszę (Y2K, nails, beauty PL), bez ogólników.
 
 ## My positions
 
-Three to five things I believe that some of my audience does not. These are
-where the good reels come from.
+[DO UZUPEŁNIENIA: 3–5 opinii, z którymi część odbiorców się nie zgadza]
 
 1.
 2.
@@ -46,22 +50,17 @@ where the good reels come from.
 
 ## Off limits
 
-- **Topics I do not post about:**
-- **Clients, numbers or names I cannot say publicly:**
-- **Claims I am not allowed to make:** (regulated industry, employer policy, NDA)
+- **Topics I do not post about:** [DO UZUPEŁNIENIA]
+- **Clients, numbers or names I cannot say publicly:** [DO UZUPEŁNIENIA]
+- **Claims I am not allowed to make:** nie obiecuj efektów kosmetyków jak leczenia (żadnych twierdzeń medycznych).
 
 ## Proof I can use
 
-Real numbers, outcomes and stories I am happy to put my name on. The skills will
-never invent one, so if this section is empty, every draft comes back with
-`{{your number}}` in it.
-
--
--
--
+- Doświadczenie jako kosmetolożka (układanie etapowych planów pielęgnacji dla klientek).
+- [DO UZUPEŁNIENIA: konkretne liczby i historie]
 
 ## The ask
 
-- **My keyword CTA, if I use one:** (one word, sayable, no spaces)
-- **What the keyword sends them:**
-- **Where my link goes:**
+- **My keyword CTA, if I use one:** [DO UZUPEŁNIENIA]
+- **What the keyword sends them:** [DO UZUPEŁNIENIA]
+- **Where my link goes:** [DO UZUPEŁNIENIA]
