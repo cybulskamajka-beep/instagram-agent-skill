@@ -15,8 +15,14 @@ orientacyjnie.
 
 - **Name:** Maja
 - **Handle:** @mayaminio (Instagram + TikTok)
-- **What I do, in one sentence:** Beauty, fashion i lifestyle w estetyce Y2K / vintage.
-  Paznokcie, makijaż, pielęgnacja, rzęsy, moda i kawałki codziennego życia.
+- **What I do, in one sentence:** Klasyczne lakiery do paznokci, moda, włosy oraz
+  urządzanie i styl domu / wnętrz, plus kawałki codziennego życia.
+- **Main themes (w tej kolejności ważności):**
+  1. Paznokcie: klasyczne lakiery (nie hybrydy ani żel jako główny temat)
+  2. Moda
+  3. Włosy
+  4. Urządzanie domu, styl wnętrz (w tym budowa i wykańczanie własnego domu)
+- **Aesthetic:** [DO POTWIERDZENIA: czy nadal Y2K / vintage?]
 - **Who I am talking to:** [DO UZUPEŁNIENIA: np. „dziewczyny 20–35 lat, które kochają Y2K i lubią same robić paznokcie”]
 - **What I sell:** [DO UZUPEŁNIENIA: współprace z markami beauty (np. YesStyle/hince), coś jeszcze?]
 - **Background:** z wykształcenia i doświadczenia kosmetolożka, więc może mówić o pielęgnacji z wiedzą, nie tylko z gustu.
@@ -38,7 +44,7 @@ orientacyjnie.
 ## Content rhythm
 
 - 3 rolki tygodniowo (stały plan batchingu).
-- Hashtagi: maks. 5, dobierane pod niszę (Y2K, nails, beauty PL), bez ogólników.
+- Hashtagi: maks. 5, dobierane pod temat posta (lakiery, moda, włosy, wnętrza), bez ogólników.
 
 ## My positions
 
