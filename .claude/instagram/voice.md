@@ -33,9 +33,23 @@ orientacyjnie.
 
 - **Language:** po polsku, z naturalnymi angielskimi wtrąceniami („life lately”, „diary dump”).
 - **Formats that feel like me:** autentyczne, pamiętnikowe: „life lately”, „diary dump”, kulisy (w tym budowa domu w stories).
-- **Three of my own reels or captions that sound most like me:** [DO UZUPEŁNIENIA: wklej 2–3 opisy albo transkrypcje rolek]
-- **On camera I am:** [DO UZUPEŁNIENIA]
-- **Words I actually use:** [DO UZUPEŁNIENIA]
+- **Samples (napisy z rolek, które działały):**
+  - Seria „ROZKMINY ŻYCIOWE MAI #1”: robi makijaż ust i jednocześnie mówi o
+    życiu: „Pogadajmy o dniu urodzin w dorosłym życiu… nałóżmy sobie moje
+    ostatnio ulubione… odkąd skończyłam 17, 18 lat… mimo że jednego roku mam
+    imprezę, drugiego roku nie mam, to takie uczucie pustki… i mimo że co roku
+    planuję naprawdę fajne…”
+  - Unboxing paczki PR od marki lakierów: „kropelki… myślę, że zaraz go będziemy
+    testować… taka czerwieniasta… moja ulubiona kawusia latte… tutaj mamy
+    nudziaczki… no i przed imprezą czy coś… dziękuję jeszcze raz za paczuszkę”
+  - Test z ekspresyjnymi minami, hook na ekranie: „testujemy matowy top”
+- **On camera I am:** naturalna, gadająca jak do koleżanki, ekspresyjna mimika
+  (zdziwienie, skrzywienie, uśmiech). Twarz w kadrze, mówi do kamery w trakcie
+  robienia czegoś rękami (makijaż, paznokcie).
+- **Words I actually use:** zdrobnienia („nudziaczki”, „kawusia”, „paczuszka”,
+  „kropelki”), „pogadajmy o…”, „nałóżmy sobie”, „testujemy”, „taka…-asta”,
+  „no i…”, „czy coś”, „mimo że…”, „naprawdę”. Formaty z numerem odcinka
+  („#1”).
 - **Words I would never say out loud:** [DO UZUPEŁNIENIA]
 - **Do I swear:** [DO UZUPEŁNIENIA]
 - **Emoji in captions:** [DO UZUPEŁNIENIA]
