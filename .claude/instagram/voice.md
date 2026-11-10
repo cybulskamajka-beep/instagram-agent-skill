@@ -15,17 +15,21 @@ orientacyjnie.
 
 - **Name:** Maja
 - **Handle:** @mayaminio (Instagram + TikTok)
-- **What I do, in one sentence:** Klasyczne lakiery do paznokci, moda, włosy oraz
-  urządzanie i styl domu / wnętrz, plus kawałki codziennego życia.
-- **Main themes (w tej kolejności ważności):**
-  1. Paznokcie: klasyczne lakiery (nie hybrydy ani żel jako główny temat)
-  2. Moda
-  3. Włosy
-  4. Urządzanie domu, styl wnętrz (w tym budowa i wykańczanie własnego domu)
+- **Pozycjonowanie (zatwierdzone 10.11.2026):** „Paznokcie bez hybrydy i
+  fryzury w 2 minuty”. Klasyczny lakier w domu, który wygląda jak z salonu,
+  plus szybkie fryzury na co dzień. Polski nail-content to głównie hybrydy i
+  żel, a to jest wolne miejsce i wyróżnik konta.
+- **Filary rolek (w tej kolejności):**
+  1. Paznokcie: klasyczne lakiery (nigdy hybryda ani żel jako temat)
+  2. Szybkie fryzury (klamra, koczki, proste upięcia)
+  3. Moda
+- **Stories:** dom, wnętrza, budowa i wykańczanie domu, codzienność.
+- **Makijaż:** tylko w formie gadanej z opinią (np. seria „Rozkminy”), nie
+  jako cichy tutorial.
 - **Aesthetic:** współczesna. Inspiracje Y2K / vintage pojawiają się czasem, ale
   odtworzone we współczesnym wydaniu. Nie przedstawiaj konta jako „Y2K” ani nie
   opieraj na tym hooków i hashtagów.
-- **Who I am talking to:** [DO UZUPEŁNIENIA: np. „dziewczyny 20–35 lat, które kochają Y2K i lubią same robić paznokcie”]
+- **Who I am talking to:** [DO UZUPEŁNIENIA: np. „dziewczyny 20–35 lat, które same robią paznokcie i nie chcą hybrydy”]
 - **What I sell:** [DO UZUPEŁNIENIA: współprace z markami beauty (np. YesStyle/hince), coś jeszcze?]
 - **Background:** z wykształcenia i doświadczenia kosmetolożka, więc może mówić o pielęgnacji z wiedzą, nie tylko z gustu.
 
