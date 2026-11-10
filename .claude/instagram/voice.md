@@ -22,7 +22,9 @@ orientacyjnie.
   2. Moda
   3. Włosy
   4. Urządzanie domu, styl wnętrz (w tym budowa i wykańczanie własnego domu)
-- **Aesthetic:** [DO POTWIERDZENIA: czy nadal Y2K / vintage?]
+- **Aesthetic:** współczesna. Inspiracje Y2K / vintage pojawiają się czasem, ale
+  odtworzone we współczesnym wydaniu. Nie przedstawiaj konta jako „Y2K” ani nie
+  opieraj na tym hooków i hashtagów.
 - **Who I am talking to:** [DO UZUPEŁNIENIA: np. „dziewczyny 20–35 lat, które kochają Y2K i lubią same robić paznokcie”]
 - **What I sell:** [DO UZUPEŁNIENIA: współprace z markami beauty (np. YesStyle/hince), coś jeszcze?]
 - **Background:** z wykształcenia i doświadczenia kosmetolożka, więc może mówić o pielęgnacji z wiedzą, nie tylko z gustu.
