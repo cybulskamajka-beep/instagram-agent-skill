@@ -57,6 +57,23 @@ orientacyjnie.
 - **Voiceover or to-camera:** [DO UZUPEŁNIENIA]
 - **Pace:** nieznane, użyj domyślnego tempa.
 
+## Co działa (z przeglądu rolek, listopad 2026)
+
+Formuła 1, **efekt na start + szybki tutorial** (lakiery klasyczne, fryzury):
+pierwsza klatka to gotowy efekt (paznokcie, koczek) i konkretny polski tytuł
+na ekranie („Szybki koczek z klamrą”, „Robimy pazy z błyskiem! Lakierami
+klasycznymi.”, „Polka dots x lakiery klasyczne”). Potem kroki, a na końcu
+„Obserwuj, jeśli chcesz więcej prostych i szybkich fryzur”. Serie z numerem
+(„cute fall hairstyles 2/5”).
+
+Formuła 2, **gadanie + werdykt**: mówi do kamery, porównuje lub testuje i
+daje swoje zdanie („ulubieniec wszech czasów ma swojego zamiennika…”,
+„testujemy matowy top”, „Rozkminy życiowe Mai #1”).
+
+Słabo: ciche tutoriale makijażu bez efektu w pierwszej klatce, z ogólnym
+angielskim hookiem („best fall lip combo”) albo bez tekstu na start.
+Makijaż wypada poza główne tematy konta.
+
 ## Content rhythm
 
 - 3 rolki tygodniowo (stały plan batchingu).
